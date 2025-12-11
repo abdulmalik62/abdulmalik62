@@ -12,16 +12,6 @@ I architect and deliver **end-to-end scalable platforms** where engineering exce
 ---
 
 ## 🏆 Achievements & GitHub Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulmalik62&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulmalik62&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmalik62&layout=compact&theme=radical" height="165" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdulmalik62&theme=radical&hide_border=true" />
 </p>
