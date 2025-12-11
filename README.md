@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 Cloud-Native Full Stack Engineer with hands-on experience across **Web, Mobile, IoT, Cloud, Microservices, DevOps, and Distributed Systems**.  
 I architect and deliver **end-to-end scalable platforms** where engineering excellence meets business value.
 
@@ -14,7 +14,7 @@ I architect and deliver **end-to-end scalable platforms** where engineering exce
   <img src="https://streak-stats.demolab.com?user=abdulmalik62&theme=radical&hide_border=true" />
 </p>
 
-<h2 align="center">📊 Contribution Graph</h2>
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmalik62&theme=tokyonight" />
@@ -26,15 +26,11 @@ I architect and deliver **end-to-end scalable platforms** where engineering exce
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulmalik62&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmalik62&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 
-## 🧠 Core Competencies
+## Core Competencies
 
 - Full Stack Development (Web / Mobile / IoT)
 - Cloud-Native Architecture (Microservices, Serverless)
