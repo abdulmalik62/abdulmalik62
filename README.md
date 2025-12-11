@@ -14,18 +14,25 @@ I architect and deliver **end-to-end scalable platforms** where engineering exce
   <img src="https://streak-stats.demolab.com?user=abdulmalik62&theme=radical&hide_border=true" />
 </p>
 
-## 📊 Contribution Graph
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmalik62&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulmalik62&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulmalik62&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulmalik62&theme=tokyonight" />
+<h2 align="center">📊 Contribution Graph</h2>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmalik62&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulmalik62&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulmalik62&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulmalik62&theme=tokyonight" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmalik62&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
 
 ## 🧠 Core Competencies
 
