@@ -96,26 +96,6 @@ Hasura • Git • GitHub • Bit
 - Crafting security-hardened Linux container images  
 - Building cross-platform mobile apps with Flutter & Ionic  
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/p-a-abdul-malik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://paabdulmalik.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="mailto:paabdulmalik02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://buymeacoffee.com/abdulmalik0602">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   ⭐️ <i>"Bridging technical depth with business impact – from code to customer journeys."</i>  
