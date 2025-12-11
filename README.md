@@ -1,7 +1,7 @@
-<h1 align="center">Abdul Malik P A, B.E., MBA</h1>
-<h3 align="center">Cloud-Native Full Stack Engineer | IoT & Platform Architect</h3>
+## Abdul Malik P A, B.E., MBA
+## Cloud-Native Full Stack Engineer | IoT & Platform Architect
 
-<p align="center"><i>"Shipping full-stack systems that don’t just work — they drive growth."</i></p>
+Shipping full-stack systems that don’t just work — they drive growth.
 
 ---
 
